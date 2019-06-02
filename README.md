@@ -7,14 +7,14 @@
 Work-in-progress.
  ```
 
-<img src="pictures/kis-01.jpg" width="800">
+<img src="pictures/kis-01.png" width="800">
 
-<img src="pictures/kis-02.jpg" width="800">
+<img src="pictures/kis-02.png" width="800">
 
-<img src="pictures/kis-03.jpg" width="800">
+<img src="pictures/kis-03.png" width="800">
 
-<img src="pictures/kis-04.jpg" width="800">
+<img src="pictures/kis-04.png" width="800">
 
-<img src="pictures/kis-05.jpg" width="800">
+<img src="pictures/kis-05.png" width="800">
 
 
